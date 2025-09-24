@@ -18,3 +18,7 @@ This project demonstrates how to use the **N-ATLaS-LLM**, a multilingual large l
 ```bash
 git clone https://github.com/your-org/n_atlas_demo.git
 cd n_atlas_demo
+
+## HuggingFace Hub .gguf files
+
+https://huggingface.co/inuwamobarak/N-ATLaS-8B-GGUF-Q4_K_M/tree/main
